@@ -1,0 +1,43 @@
+Table 1 - Output to screen formatting example
+
+Data logging initiated - 30/05/2024 14:58:10
+Location - Nottingham
+
+Minute		0
+Temperature	15.49C
+
+Minute		1
+Temperature	16.47C
+
+Minute		2
+Temperature	16.96C
+
+Minute		3
+Temperature	16.96C
+
+Minute		4
+Temperature	16.96C
+
+Minute		5
+Temperature	17.45C
+
+Minute		6
+Temperature	17.45C
+
+Minute		7
+Temperature	17.45C
+
+Minute		8
+Temperature	17.94C
+
+Minute		9
+Temperature	17.94C
+
+Minute		10
+Temperature	17.94C
+
+Max temp		17.94 °C
+Min temp		15.49 °C
+Average temp	17.28 °C
+
+Data logging terminated
